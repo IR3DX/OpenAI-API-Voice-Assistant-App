@@ -18,3 +18,7 @@ OpenAI ChatGPT-3.5 Turbo API
 HTML, JavaScript, and simple CSS frontend
 
 Backend in Python (Flask or similar, if applicable)
+
+## Notes:
+
+Front end and all files are in the .tar compressed file, the main python, docker, and requirements.txt files were re-uploaded to the main branch for viewing purposes. Front end belongs to @ https://github.com/arora-r/chatapp-with-voice-and-openai-outline
